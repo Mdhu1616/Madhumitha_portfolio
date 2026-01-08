@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-label="Folder">
+  <title>Folder</title>
+  <path fill="#ffd166" d="M10 4H4c-1.1 0-2 .9-2 2v2h20V8c0-1.1-.9-2-2-2h-8l-2-2z"/>
+  <path fill="#1f2937" d="M22 10H2v6c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2v-6z"/>
+</svg>
