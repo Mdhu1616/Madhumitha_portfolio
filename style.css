@@ -416,7 +416,7 @@ nav a {
 .projects-grid {
     margin-top: 60px;
     display: grid;
-    grid-template-columns: repeat(2, 420px);
+    grid-template-columns: repeat(3, minmax(280px, 1fr));
     justify-content: center;
     gap: 40px;
 }
